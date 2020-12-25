@@ -96,11 +96,11 @@ var _default = RepoCard;
     return;
   }
 
-  reactHotLoader.register(ListGroup, "ListGroup", "E:\\train\\train\\github\\src\\components\\Card.jsx");
-  reactHotLoader.register(Card, "Card", "E:\\train\\train\\github\\src\\components\\Card.jsx");
-  reactHotLoader.register(ListGroupItem, "ListGroupItem", "E:\\train\\train\\github\\src\\components\\Card.jsx");
-  reactHotLoader.register(RepoCard, "RepoCard", "E:\\train\\train\\github\\src\\components\\Card.jsx");
-  reactHotLoader.register(_default, "default", "E:\\train\\train\\github\\src\\components\\Card.jsx");
+  reactHotLoader.register(ListGroup, "ListGroup", "D:\\Documents\\Tencent Files\\244122535\\FileRecv\\github\\src\\components\\Card.jsx");
+  reactHotLoader.register(Card, "Card", "D:\\Documents\\Tencent Files\\244122535\\FileRecv\\github\\src\\components\\Card.jsx");
+  reactHotLoader.register(ListGroupItem, "ListGroupItem", "D:\\Documents\\Tencent Files\\244122535\\FileRecv\\github\\src\\components\\Card.jsx");
+  reactHotLoader.register(RepoCard, "RepoCard", "D:\\Documents\\Tencent Files\\244122535\\FileRecv\\github\\src\\components\\Card.jsx");
+  reactHotLoader.register(_default, "default", "D:\\Documents\\Tencent Files\\244122535\\FileRecv\\github\\src\\components\\Card.jsx");
 })();
 
 ;
@@ -153,9 +153,9 @@ var _default = Content;
     return;
   }
 
-  reactHotLoader.register(Container, "Container", "E:\\train\\train\\github\\src\\components\\Content.jsx");
-  reactHotLoader.register(Content, "Content", "E:\\train\\train\\github\\src\\components\\Content.jsx");
-  reactHotLoader.register(_default, "default", "E:\\train\\train\\github\\src\\components\\Content.jsx");
+  reactHotLoader.register(Container, "Container", "D:\\Documents\\Tencent Files\\244122535\\FileRecv\\github\\src\\components\\Content.jsx");
+  reactHotLoader.register(Content, "Content", "D:\\Documents\\Tencent Files\\244122535\\FileRecv\\github\\src\\components\\Content.jsx");
+  reactHotLoader.register(_default, "default", "D:\\Documents\\Tencent Files\\244122535\\FileRecv\\github\\src\\components\\Content.jsx");
 })();
 
 ;
@@ -373,7 +373,7 @@ var battleResult = /*#__PURE__*/function (_React$Component) {
     return;
   }
 
-  reactHotLoader.register(battleResult, "battleResult", "E:\\train\\train\\github\\src\\pages\\battleResult.jsx");
+  reactHotLoader.register(battleResult, "battleResult", "D:\\Documents\\Tencent Files\\244122535\\FileRecv\\github\\src\\pages\\battleResult.jsx");
 })();
 
 ;

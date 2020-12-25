@@ -15,7 +15,10 @@ module.exports = {
         'react/destructuring-assignment': 0,
         'react/jsx-one-expression-per-line': 0,
         "react/no-array-index-key":0,
-        "react/jsx-filename-extension":0
+        "react/jsx-filename-extension":0,
+        'import/extensions':0,
+        'import/no-unresolved':0,
+        'no-unused-expressions':0
 
     }
 }

@@ -235,11 +235,11 @@ var _default = RepoCard;
     return;
   }
 
-  reactHotLoader.register(ListGroup, "ListGroup", "E:\\train\\train\\github\\src\\components\\Card.jsx");
-  reactHotLoader.register(Card, "Card", "E:\\train\\train\\github\\src\\components\\Card.jsx");
-  reactHotLoader.register(ListGroupItem, "ListGroupItem", "E:\\train\\train\\github\\src\\components\\Card.jsx");
-  reactHotLoader.register(RepoCard, "RepoCard", "E:\\train\\train\\github\\src\\components\\Card.jsx");
-  reactHotLoader.register(_default, "default", "E:\\train\\train\\github\\src\\components\\Card.jsx");
+  reactHotLoader.register(ListGroup, "ListGroup", "D:\\Documents\\Tencent Files\\244122535\\FileRecv\\github\\src\\components\\Card.jsx");
+  reactHotLoader.register(Card, "Card", "D:\\Documents\\Tencent Files\\244122535\\FileRecv\\github\\src\\components\\Card.jsx");
+  reactHotLoader.register(ListGroupItem, "ListGroupItem", "D:\\Documents\\Tencent Files\\244122535\\FileRecv\\github\\src\\components\\Card.jsx");
+  reactHotLoader.register(RepoCard, "RepoCard", "D:\\Documents\\Tencent Files\\244122535\\FileRecv\\github\\src\\components\\Card.jsx");
+  reactHotLoader.register(_default, "default", "D:\\Documents\\Tencent Files\\244122535\\FileRecv\\github\\src\\components\\Card.jsx");
 })();
 
 ;
@@ -292,9 +292,9 @@ var _default = Content;
     return;
   }
 
-  reactHotLoader.register(Container, "Container", "E:\\train\\train\\github\\src\\components\\Content.jsx");
-  reactHotLoader.register(Content, "Content", "E:\\train\\train\\github\\src\\components\\Content.jsx");
-  reactHotLoader.register(_default, "default", "E:\\train\\train\\github\\src\\components\\Content.jsx");
+  reactHotLoader.register(Container, "Container", "D:\\Documents\\Tencent Files\\244122535\\FileRecv\\github\\src\\components\\Content.jsx");
+  reactHotLoader.register(Content, "Content", "D:\\Documents\\Tencent Files\\244122535\\FileRecv\\github\\src\\components\\Content.jsx");
+  reactHotLoader.register(_default, "default", "D:\\Documents\\Tencent Files\\244122535\\FileRecv\\github\\src\\components\\Content.jsx");
 })();
 
 ;
@@ -350,9 +350,9 @@ var _default = Footer;
     return;
   }
 
-  reactHotLoader.register(Container, "Container", "E:\\train\\train\\github\\src\\components\\Footer.jsx");
-  reactHotLoader.register(Footer, "Footer", "E:\\train\\train\\github\\src\\components\\Footer.jsx");
-  reactHotLoader.register(_default, "default", "E:\\train\\train\\github\\src\\components\\Footer.jsx");
+  reactHotLoader.register(Container, "Container", "D:\\Documents\\Tencent Files\\244122535\\FileRecv\\github\\src\\components\\Footer.jsx");
+  reactHotLoader.register(Footer, "Footer", "D:\\Documents\\Tencent Files\\244122535\\FileRecv\\github\\src\\components\\Footer.jsx");
+  reactHotLoader.register(_default, "default", "D:\\Documents\\Tencent Files\\244122535\\FileRecv\\github\\src\\components\\Footer.jsx");
 })();
 
 ;
@@ -427,10 +427,10 @@ var _default = Header;
     return;
   }
 
-  reactHotLoader.register(Container, "Container", "E:\\train\\train\\github\\src\\components\\Top.jsx");
-  reactHotLoader.register(Nav, "Nav", "E:\\train\\train\\github\\src\\components\\Top.jsx");
-  reactHotLoader.register(Header, "Header", "E:\\train\\train\\github\\src\\components\\Top.jsx");
-  reactHotLoader.register(_default, "default", "E:\\train\\train\\github\\src\\components\\Top.jsx");
+  reactHotLoader.register(Container, "Container", "D:\\Documents\\Tencent Files\\244122535\\FileRecv\\github\\src\\components\\Top.jsx");
+  reactHotLoader.register(Nav, "Nav", "D:\\Documents\\Tencent Files\\244122535\\FileRecv\\github\\src\\components\\Top.jsx");
+  reactHotLoader.register(Header, "Header", "D:\\Documents\\Tencent Files\\244122535\\FileRecv\\github\\src\\components\\Top.jsx");
+  reactHotLoader.register(_default, "default", "D:\\Documents\\Tencent Files\\244122535\\FileRecv\\github\\src\\components\\Top.jsx");
 })();
 
 ;
@@ -720,7 +720,7 @@ var App = /*#__PURE__*/function (_React$Component) {
         "aria-hidden": "true"
       }), " \u52A0\u8F7D\u66F4\u591A"))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(_components_Footer_jsx__WEBPACK_IMPORTED_MODULE_15__["default"], null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
         className: "text-center text-black jumbotron bg-light"
-      }, "\u7248\u6743\u6240\u6709 \xA9 \u9B4F\u9ECE\u6021"))));
+      }, "\u7248\u6743\u6240\u6709 \xA9 Chasen\u8521"))));
     }
   }, {
     key: "__reactstandin__regenerateByEval",
@@ -745,13 +745,13 @@ var _default = App;
     return;
   }
 
-  reactHotLoader.register(Spinner, "Spinner", "E:\\train\\train\\github\\src\\pages\\popular.jsx");
-  reactHotLoader.register(Alert, "Alert", "E:\\train\\train\\github\\src\\pages\\popular.jsx");
-  reactHotLoader.register(Row, "Row", "E:\\train\\train\\github\\src\\pages\\popular.jsx");
-  reactHotLoader.register(Col, "Col", "E:\\train\\train\\github\\src\\pages\\popular.jsx");
-  reactHotLoader.register(Button, "Button", "E:\\train\\train\\github\\src\\pages\\popular.jsx");
-  reactHotLoader.register(App, "App", "E:\\train\\train\\github\\src\\pages\\popular.jsx");
-  reactHotLoader.register(_default, "default", "E:\\train\\train\\github\\src\\pages\\popular.jsx");
+  reactHotLoader.register(Spinner, "Spinner", "D:\\Documents\\Tencent Files\\244122535\\FileRecv\\github\\src\\pages\\popular.jsx");
+  reactHotLoader.register(Alert, "Alert", "D:\\Documents\\Tencent Files\\244122535\\FileRecv\\github\\src\\pages\\popular.jsx");
+  reactHotLoader.register(Row, "Row", "D:\\Documents\\Tencent Files\\244122535\\FileRecv\\github\\src\\pages\\popular.jsx");
+  reactHotLoader.register(Col, "Col", "D:\\Documents\\Tencent Files\\244122535\\FileRecv\\github\\src\\pages\\popular.jsx");
+  reactHotLoader.register(Button, "Button", "D:\\Documents\\Tencent Files\\244122535\\FileRecv\\github\\src\\pages\\popular.jsx");
+  reactHotLoader.register(App, "App", "D:\\Documents\\Tencent Files\\244122535\\FileRecv\\github\\src\\pages\\popular.jsx");
+  reactHotLoader.register(_default, "default", "D:\\Documents\\Tencent Files\\244122535\\FileRecv\\github\\src\\pages\\popular.jsx");
 })();
 
 ;

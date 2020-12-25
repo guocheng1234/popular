@@ -1,41 +1,41 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([[3],{
 
-/***/ "./images/pic1.jpg":
-/*!*************************!*\
-  !*** ./images/pic1.jpg ***!
-  \*************************/
+/***/ "./images/pic1.jpeg":
+/*!**************************!*\
+  !*** ./images/pic1.jpeg ***!
+  \**************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "bbaecbf7a377ca35424bc72866fdbf98.jpg");
+/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "be9317c9550bc96eea025380eca409ac.jpeg");
 
 /***/ }),
 
-/***/ "./images/pic2.jpg":
-/*!*************************!*\
-  !*** ./images/pic2.jpg ***!
-  \*************************/
+/***/ "./images/pic2.jpeg":
+/*!**************************!*\
+  !*** ./images/pic2.jpeg ***!
+  \**************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "a09ee6140e42afac57015401e6174744.jpg");
+/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "6a77c0f3aa63033229a3793de7ad843d.jpeg");
 
 /***/ }),
 
-/***/ "./images/pic3.jpg":
-/*!*************************!*\
-  !*** ./images/pic3.jpg ***!
-  \*************************/
+/***/ "./images/pic3.jpeg":
+/*!**************************!*\
+  !*** ./images/pic3.jpeg ***!
+  \**************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "b505533c7c571c37dd940f30325795f4.jpg");
+/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "c336c6f07ac8c53eaa341e7995b76880.jpeg");
 
 /***/ }),
 
@@ -92,9 +92,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_7__);
 /* harmony import */ var react_bootstrap__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! react-bootstrap */ "./node_modules/react-bootstrap/esm/index.js");
-/* harmony import */ var _images_pic1_jpg__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../../images/pic1.jpg */ "./images/pic1.jpg");
-/* harmony import */ var _images_pic2_jpg__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../../images/pic2.jpg */ "./images/pic2.jpg");
-/* harmony import */ var _images_pic3_jpg__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../../images/pic3.jpg */ "./images/pic3.jpg");
+/* harmony import */ var _images_pic1_jpeg__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../../images/pic1.jpeg */ "./images/pic1.jpeg");
+/* harmony import */ var _images_pic2_jpeg__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../../images/pic2.jpeg */ "./images/pic2.jpeg");
+/* harmony import */ var _images_pic3_jpeg__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../../images/pic3.jpeg */ "./images/pic3.jpeg");
 
 
 
@@ -234,7 +234,7 @@ var Battle = /*#__PURE__*/function (_React$Component) {
       return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_8__["Container"], {
         className: "text-center"
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("br", null), " ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("h3", null, "GAME"), " ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_8__["Row"], null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_8__["Col"], null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("p", null, "Enter two Github users"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("img", {
-        src: _images_pic1_jpg__WEBPACK_IMPORTED_MODULE_9__["default"],
+        src: _images_pic1_jpeg__WEBPACK_IMPORTED_MODULE_9__["default"],
         style: {
           boxShadow: '0 0 5px 3px #00000042',
           width: '200px',
@@ -242,7 +242,7 @@ var Battle = /*#__PURE__*/function (_React$Component) {
         },
         alt: " "
       })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_8__["Col"], null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("p", null, "Battle"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("img", {
-        src: _images_pic2_jpg__WEBPACK_IMPORTED_MODULE_10__["default"],
+        src: _images_pic2_jpeg__WEBPACK_IMPORTED_MODULE_10__["default"],
         style: {
           boxShadow: '0 0 5px 3px #00000042',
           width: '200px',
@@ -250,7 +250,7 @@ var Battle = /*#__PURE__*/function (_React$Component) {
         },
         alt: " "
       })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_8__["Col"], null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("p", null, "See the winner"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("img", {
-        src: _images_pic3_jpg__WEBPACK_IMPORTED_MODULE_11__["default"],
+        src: _images_pic3_jpeg__WEBPACK_IMPORTED_MODULE_11__["default"],
         style: {
           boxShadow: '0 0 5px 3px #00000042',
           width: '200px',
@@ -342,7 +342,7 @@ var Battle = /*#__PURE__*/function (_React$Component) {
     return;
   }
 
-  reactHotLoader.register(Battle, "Battle", "E:\\train\\train\\github\\src\\pages\\battle.jsx");
+  reactHotLoader.register(Battle, "Battle", "D:\\Documents\\Tencent Files\\244122535\\FileRecv\\github\\src\\pages\\battle.jsx");
 })();
 
 ;
